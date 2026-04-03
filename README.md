@@ -12,6 +12,6 @@ Sou professora de Inglês na **Wizard by Pearson** e estou começando a trilhar 
 - 📫 Me encontre em: (www.linkedin.com/in/ana-clara-ceolis-02bb83300)
 
 ## Habilidades em Desenvolvimento:
-**Linguagens:** C, HTML e Java.
-**Educação:** Ensino em Inglês de acordo com a metodologia da escola na qual trabalho, didática e comunicação.
-**Acadêmico:** Engenharia de Software.
+* **Linguagens:** C, HTML e Java.
+* **Educação:** Ensino em Inglês de acordo com a metodologia da escola na qual trabalho, didática e comunicação.
+* **Acadêmico:** Engenharia de Software.
