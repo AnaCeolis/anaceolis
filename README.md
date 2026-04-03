@@ -2,7 +2,6 @@
 ## English Teacher & Software Engineering Student
 
 Sou professora de Inglês na **Wizard by Pearson** e estou começando a trilhar meu caminho no mundo da tecnologia. Atualmente sou graduanda do primeiro ano de **Engenharia de Software na Unifil**.
-**AnaCeolis/anaceolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Um pouco sobre quem eu sou:
 
@@ -13,7 +12,6 @@ Sou professora de Inglês na **Wizard by Pearson** e estou começando a trilhar 
 - 📫 Me encontre em: (www.linkedin.com/in/ana-clara-ceolis-02bb83300)
 
 ## Habilidades em Desenvolvimento:
-**Linguagens:** C, Html e Java.
+**Linguagens:** C, HTML e Java.
 **Educação:** Ensino em Inglês de acordo com a metodologia da escola na qual trabalho, didática e comunicação.
 **Acadêmico:** Engenharia de Software.
--->
