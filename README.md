@@ -1,5 +1,5 @@
 ## Hi there! I'm Ana Ceolis 👋
-## English Teacher & Sofftware Engineering Student
+## English Teacher & Software Engineering Student
 
 Sou professora de Inglês na **Wizard by Pearson** e estou começando a trilhar meu caminho no mundo da tecnologia. Atualmente sou graduanda do primeiro ano de **Engenharia de Software na Unifil**.
 <!--
